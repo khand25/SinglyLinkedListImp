@@ -1,0 +1,34 @@
+Khan_assignment1:
+total 12
+drwxr-xr-x. 3 myid  33 Sep 17 08:10 bin
+-rwxr--r--. 1 myid 301 Sep 21 19:22 LinkedListDriver.sh
+-rw-r--r--. 1 myid 950 Sep 22 09:46 Readme.txt
+-rw-r--r--. 1 myid   0 Sep 22 10:01 rec18220
+drwxr-xr-x. 3 myid  33 Sep 17 07:35 src
+-rwxr--r--. 1 myid 255 Sep 17 17:57 TesterCompile.sh
+
+Khan_assignment1/bin:
+total 0
+drwxr-xr-x. 2 myid 154 Sep 21 19:03 assingment1
+
+Khan_assignment1/bin/assingment1:
+total 32
+-rw-r--r--. 1 myid  519 Sep 22 10:00 ItemType.class
+-rw-r--r--. 1 myid 5610 Sep 22 10:00 LinkedListDriver.class
+-rw-r--r--. 1 myid  374 Sep 22 10:00 NodeType.class
+-rw-r--r--. 1 myid 3854 Sep 22 10:00 SortedLinkedList.class
+-rw-r--r--. 1 myid 9312 Sep 22 09:20 Tester.class
+
+Khan_assignment1/src:
+total 0
+drwxr-xr-x. 2 myid 170 Sep 22 09:45 assingment1
+
+Khan_assignment1/src/assingment1:
+total 60
+-rw-r--r--. 1 myid    17 Sep 21 15:13 input.txt
+-rw-r--r--. 1 myid  1551 Sep 17 08:36 ItemType.java
+-rw-r--r--. 1 myid 11615 Sep 22 08:59 LinkedListDriver.java
+-rw-r--r--. 1 myid   755 Sep 17 10:20 NodeType.java
+-rw-r--r--. 1 myid 13996 Sep 22 09:45 SortedLinkedList.java
+-rw-r--r--. 1 myid 16836 Sep 22 09:20 Tester.java
+/home/myid/drk46099/cs2720-unix/Khan_assignment1:/home/myid/csci-2720a
